@@ -8,3 +8,5 @@ All implementation based on Tensorflow.
 **2_cnn** - implementation and hyperparamters tuning of Convolutional Neural Network for image classification tasks.
 
 **3_rnn** - implementation and hyperparamters tuning of standard RNN and LSTM Neural Networks for text classification tasks.
+
+All reports are available [here](https://kornelro.github.io/deep-learning-assignments/) (polish language only).
